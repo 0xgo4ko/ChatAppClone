@@ -30,8 +30,8 @@
                 UserName = "Georgi",
                 Email = "georgi@mail.com",
                 EmailConfirmed = true,
-                ProfilePictureUrl = "https://res.cloudinary.com/de1i8aava/image/upload/v1726509898/ChatAppClone/assets/user-profile-pictures/profile-picture.jpg",
-                ProfilePicturePublicId = "ChatAppClone/assets/user-profile-pictures/profile-picture",
+                ProfilePictureUrl = "https://res.cloudinary.com/de1i8aava/image/upload/v1725385674/ChatAppClone/assets/user-profile-pictures/profil1.jpg",
+                ProfilePicturePublicId = "ChatAppClone/assets/user-profile-pictures/profil1",
                 CreatedOn = DateTime.UtcNow.ToLocalTime()
             };
 
@@ -40,8 +40,6 @@
                 UserName = "Lyuboslav",
                 Email = "lyubo@mail.com",
                 EmailConfirmed = true,
-                ProfilePictureUrl = "https://res.cloudinary.com/de1i8aava/image/upload/v1725385674/ChatAppClone/assets/user-profile-pictures/profil1.jpg",
-                ProfilePicturePublicId = "ChatAppClone/assets/user-profile-pictures/profil1",
                 CreatedOn = DateTime.UtcNow.ToLocalTime()
             };
 
