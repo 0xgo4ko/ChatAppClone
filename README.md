@@ -1,7 +1,11 @@
 # ChatAppClone
 <p>A simple real-time chat platform for instant communication where users can chat, manage their chats,
 user profiles and notifications.</p>
+
+<p>Full Documentation in BG => <a href="https://github.com/0xgo4ko/ChatAppClone/blob/master/ChatAppClone/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf">here</a></p>
+
 <p>To use the application you may register with valid email and confirm your account.</p>
+
 <p>Implemented: </p>
 <ul>
    <li>Full Authentication Flow via Microsoft Identity.</li>
